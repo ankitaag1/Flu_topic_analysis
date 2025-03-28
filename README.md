@@ -3,6 +3,4 @@ Code for the analysis done in the published paper 'Leveraging Natural Language P
 
 In the file, 'Flu_topic_analysis.ipynb', add the name of your datafile in .csv format in the line: df = pd.read_csv(" ", sep=",") before running the code.
 
-The tweets in the file should be arranged chronologically by month.
-
 The column containing the tweets is named as 'content'.
